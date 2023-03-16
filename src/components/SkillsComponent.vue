@@ -1,5 +1,5 @@
 <template>
-    <div class="card-skills mt-4 flex justify-between mx-5" >
+    <div class="card-skills mt-4 grid md:grid-cols-2 mx-5" >
      <div class="grid grid-rows-3">
     <div class="cards bg-gray-600 m-2 p-6 gap-2">
        <p class="text-green-600">Design</p>
