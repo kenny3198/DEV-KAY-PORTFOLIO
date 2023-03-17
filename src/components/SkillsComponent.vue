@@ -11,7 +11,7 @@
     </div>
     <div class="cards bg-gray-600 m-2 p-6 gap-2">
        <p class="text-green-500">S.E.O</p>
-       <p class="text-white">Boost bussiness with S.E.O Optimize</p> 
+       <p class="text-white">Boost business with S.E.O Optimization</p> 
     </div>
     </div>
     <div class="inro-me mx-4">
@@ -20,7 +20,7 @@
        <p class="text-gray-100 mb-2">Every great design begins with an <br> Even better story</p>
        <p class="text-gray-100 mb-2">Since begining my journey as a freelance desinger. <br> I've done remote
         work for agencies, consulted for startups, <br> and collborated with a tanlented people 
-        to create digital <br> products for both bussiness and consumer use .  <br> I' am quietly confident, Naturally curiouse, and perpetually working on improving <br> my chapsane design problem <br> at a time.  </p>
+        to create digital <br> products for both bussiness and consumer use .  <br> I' am quietly confident, Naturally curiouse, and perpetually working on improving <br> my  design  <br> at a time.  </p>
     </div>
      </div>
 
