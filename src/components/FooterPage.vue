@@ -6,7 +6,7 @@
     <h1>Let's make something amazing <br> togther</h1>
     <p> Abdulbaqi Hussain kehinde</p>
   </div>
-  <div class="m-4 p-4">
+  <div class="mt-4 p-4">
     <p>75, Alata compound ilorin Kwara state.</p>
     <p>abdulbaqhussain2018@gmail.com</p>
   </div>
